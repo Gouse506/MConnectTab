@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/my_id1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/all"
+            android:checked="true"
+            android:icon="@drawable/ic_all"
+            android:title="All" />
+
+
+        <item
+            android:id="@+id/like"
+            android:icon="@drawable/ic_liked"
+            android:title="Liked" />
+        <item
+            android:id="@+id/offer"
+            android:icon="@drawable/icon_gift"
+            android:title="Offers" />
+
+        <item
+            android:id="@+id/visit"
+            android:icon="@drawable/ic_visit"
+            android:title="Visit" />
+
+    </group>
+    <group android:id="@+id/my_id">
+        <item android:title="Preferences">
+            <menu>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="Logout" />
+
+                <item
+                    android:id="@+id/nav_settings"
+                    android:visible="false"
+                    android:icon="@drawable/ic_settings"
+                    android:title="Settings" />
+                <item
+                    android:id="@+id/nav_help_feedback"
+                    android:icon="@drawable/feedback"
+                    android:title="Help Feedback" />
+            </menu>
+        </item>
+
+    </group>
+
+</menu>

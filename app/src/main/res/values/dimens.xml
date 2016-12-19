@@ -1,0 +1,70 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="list_item_padding_sides">16dp</dimen>
+    <dimen name="list_item_height">80dp</dimen>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="body_topMargin">2.0dip</dimen>
+    <dimen name="buttonFont">12.0sp</dimen>
+    <dimen name="centerLeftMargin">80.0dip</dimen>
+    <dimen name="edit_text_bottom_padding">5.0dip</dimen>
+    <dimen name="edit_text_top_margin">0.0dip</dimen>
+    <dimen name="facebook_margin_top">5.0dip</dimen>
+    <dimen name="facebook_padding">5.0dip</dimen>
+    <dimen name="forum_margin_form_top">5.0dip</dimen>
+    <dimen name="google_margin_top">5.0dip</dimen>
+    <dimen name="headerFontSize">19.0sp</dimen>
+    <dimen name="headerFontSizeL2">16.0sp</dimen>
+    <dimen name="iconSpace">20.0dip</dimen>
+    <dimen name="leftMargin">10.0dip</dimen>
+    <dimen name="medium_text_size">17.0sp</dimen>
+    <dimen name="paddingL1">3.0dip</dimen>
+    <dimen name="paddingL2">1.0dip</dimen>
+    <dimen name="progress_bar">5.0dip</dimen>
+    <dimen name="rightLeftMargin">80.0dip</dimen>
+    <dimen name="rightMargin">10.0dip</dimen>
+    <dimen name="sign_up_txt_size">14.0dip</dimen>
+    <dimen name="sign_us_margin_top">5.0dip</dimen>
+    <dimen name="singup_container_margin_form_top">10.0dip</dimen>
+    <dimen name="startMenuTopMargin_l1">2.0dip</dimen>
+    <dimen name="startMenuTopMargin_l2">20.0dip</dimen>
+    <dimen name="testsummary_btn_font">12.0sp</dimen>
+    <dimen name="testsummary_btn_width">76.0dip</dimen>
+    <dimen name="textBtnHeight">28.0dip</dimen>
+    <dimen name="topMargin">2.0dip</dimen>
+    <dimen name="topMarginU1">2.0dip</dimen>
+    <dimen name="topMarginU2">5.0dip</dimen>
+    <dimen name="top_text_margin">4.0dip</dimen>
+    <dimen name="top_text_size">12.0sp</dimen>
+    <dimen name="txtSize">17.0sp</dimen>
+    <dimen name="txtSizeS">13.0sp</dimen>
+    <dimen name="txtSizeS2">14.0sp</dimen>
+    <dimen name="large_text_size">23.0sp</dimen>
+    <dimen name="margin20">10.0dip</dimen>
+    <dimen name="small_text_size">12.0sp</dimen>
+    <dimen name="test_run_grid_width">150.0dip</dimen>
+    <dimen name="hbMargin">2.0dip</dimen>
+    <dimen name="inputHeight">45.0dip</dimen>
+    <dimen name="inputWidth">200.0dip</dimen>
+    <dimen name="kblHeight">100.0dip</dimen>
+    <dimen name="kbrHeight">40.0dip</dimen>
+    <dimen name="lbHeight">20.0dip</dimen>
+    <dimen name="lbWidth">25.0dip</dimen>
+    <dimen name="filter_drawer_padding_left">30.0dip</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="imageview_width">29.0dip</dimen>
+    <dimen name="imageview_height">25.0dip</dimen>
+    <dimen name="margintop">10.0dip</dimen>
+    <dimen name="margintopn">-3.0dip</dimen>
+    <dimen name="margintopoffer">20.0dip</dimen>
+    <dimen name="marginbottom">2.0dip</dimen>
+    <dimen name="result_font">14sp</dimen>
+    <dimen name="result_fonttab">23sp</dimen>
+
+
+</resources>
